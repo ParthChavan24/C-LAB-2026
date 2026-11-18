@@ -13,7 +13,7 @@ void stringLength(void)
         len++;
     }
 
-    printf("Length of the string = %d\n", len);
+    printf("Length of the string =%d\n",len);
 }
 
 int main()
